@@ -1,0 +1,35 @@
+Violet ciel : #bd79f1    #613d7c
+Violet foncé : #430243
+Vert citron : #81bb26
+vert foncé : #016901
+vert nature : #28b463
+<i class="far fa-clipboard"></i>
+
+<div id="myModal" class="modal fade show" aria-modal="true" role="dialog" style="padding-right: 15px; display: block;">
+    <div class="modal-dialog" role="document" style="padding-top: 46px;">
+        <div class="modal-content">
+            <div class="modal-header" style="border-bottom: 0px solid #fff;">
+
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="border: none; background: none;">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body" style="text-align: center;">
+                <div>
+                    <img class="download-btn" src="https://gestion.pharma-consults.com/docs/fichiers/1661765572-image.jpg" title="Télécharger" alt="pharma-consults apple sotore" style="height: 399px;align-content: center;">
+                </div>
+                <div class="col-lg-12 col-md-6 footer-links " style="text-align: center;">
+                    <h4>Télécharger notre application</h4>
+                    <a href="https://play.google.com/store/apps/details?id=com.nickdev.pharmaconsults.pharmaconsults"><img class="download-btn" src="https://gestion.pharma-consults.com/docs/fichiers/1661765572-image_android.svg" title="Télécharger" alt="pharma-consults google play" target="_blank" style="width: 120px;"></a>
+                    <a href="https://apps.apple.com/app/id1572437734"><img class="download-btn" src="https://gestion.pharma-consults.com/docs/fichiers/1661765572-image_ios.svg" title="Télécharger" alt="pharma-consults apple sotore" target="_blank" style="width: 120px;"></a>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,104 @@
+
+
+form {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+}
+
+form input {
+    color: #000;
+    border: 1px solid #613d7c;
+    padding: 5px 15px;
+    margin: 8px 0;
+    width: 100%;
+}
+
+.date-titre {
+    padding-right: 50%;
+}
+
+#date {
+    padding: 5px 15px;
+}
+
+.sexe-box {
+    display: flex;
+    align-items: center;
+}
+
+.sexe-titre {
+    padding-right: 10px;
+}
+
+.sexe {
+    display: flex;
+    align-items: center;
+    justify-items: left;
+    font-size: 14px;
+    padding-right: 5px;
+    color: #000;
+}
+
+.sexe input {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.sexe label {
+    padding-right: 20px;
+    margin: 0;
+}
+
+form button {
+    background-color: #613d7c;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: transparent;
+    color: #613d7c;
+    border: 1px solid #613d7c;
+    transition: 0.3s ease-in;
+}
+
+form button:active {
+    transform: scale(.95);
+}
+
+form h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+form span {
+    font-size: 14px;
+    color: #000;
+}
+
+form a {
+    text-decoration: none;
+    color: #333;
+}
+
+form p {
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 20px;
+    letter-spacing: .5px;
+    margin: 20px 0 30px;
+}
+
