@@ -8695,6 +8695,7 @@ button.bg-dark:focus {
   .pl-lg-5,
   .px-lg-5 {
     padding-left: 3rem !important;
+    justify-content: space-between;
   }
   .m-lg-n1 {
     margin: -0.25rem !important;
@@ -9680,7 +9681,7 @@ h6,
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-end;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #1e2024);
+  /*background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #1e2024);*/
   z-index: 1;
 }
 
