@@ -9292,6 +9292,10 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+.text-violet {
+  color: #430243 !important;
+}
+
 .text-primary {
   color: #430243 !important;
 }
