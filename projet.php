@@ -76,14 +76,22 @@
     <div class="col-lg-12" style="padding: 0.5rem 7rem 0 7rem;">
         <div class="row news-lg mx-0 mb-3">
             <div class="col-md-6 h-100 px-0">
+<<<<<<< HEAD
                 <img class="img-fluid h-100" src="img/actu-1.jpg" style="object-fit: cover;">
+=======
+                <img class="img-fluid h-100" src="img/actu-3.jpg" style="object-fit: cover;">
+>>>>>>> main_php
             </div>
             <div class="col-md-6 d-flex flex-column border bg-white h-100 px-0" style="color: #111111;">
                 <div class="p-4">
                     <div class="mb-2">
                         <a class="text-body" href=""><small>Jan 01, 2045</small></a>
                     </div>
+<<<<<<< HEAD
                     <p class="h4 d-block mb-3 text-secondary text-uppercase font-weight-bold" href="">Campagne de vaccination</p>
+=======
+                    <p class="h4 d-block mb-3 text-secondary text-uppercase font-weight-bold" href="">Construction de dispensaire</p>
+>>>>>>> main_php
                     <p class="m-0">quelques détails du projet <br>
                         rebum clita rebum dolor stet amet justo</p>
                 </div>
@@ -115,7 +123,11 @@
                     <div class="mb-2">
                         <a class="text-body" href=""><small>Jan 01, 2045</small></a>
                     </div>
+<<<<<<< HEAD
                     <p class="h4 d-block mb-3 text-secondary text-uppercase font-weight-bold" href="">Construction de dispensaire</p>
+=======
+                    <p class="h4 d-block mb-3 text-secondary text-uppercase font-weight-bold" href="">Projet de vaccination des enfants</p>
+>>>>>>> main_php
                     <p class="m-0">quelques détails du projet <br>
                         rebum clita rebum dolor stet amet justo</p>
                 </div>

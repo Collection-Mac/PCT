@@ -36,7 +36,11 @@
                 </a>
             </div>
             <div class="col-lg-4 text-center text-lg-right">
+<<<<<<< HEAD
                 <a class="navbar-brand text-primary" href="#"><i class="fas fa-user" style="font-size: 30px;"></i> Admin</a>
+=======
+                <a class="navbar-brand text-primary" href="admin/index.php"><i class="fas fa-user" style="font-size: 30px;"></i> Admin</a>
+>>>>>>> main_php
             </div>
         </div>
     </div>
@@ -571,7 +575,11 @@
 						<input type="text" name="qualificatione" placeholder="Vos qualifications/Compétences*" autocomplete="none" required>
                         <input type="text" name="tele" placeholder="Numéro de Téléphone (votre numéro)*" autocomplete="none" required>
                         <input type="text" name="whatsappe" placeholder="Numéro WhatsApp">
+<<<<<<< HEAD
 						<input type="text" name="commentairee" placeholder="Commentaire">
+=======
+						<input type="text" name="commentairee" placeholder="Autre information sur l'offre">
+>>>>>>> main_php
                         <button type="submit" name="emploi_submit" >Valider</button>
                     </form>
                 </div>
